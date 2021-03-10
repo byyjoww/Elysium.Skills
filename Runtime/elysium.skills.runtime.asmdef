@@ -1,0 +1,16 @@
+{
+    "name": "elysium.skills.runtime",
+    "references": [
+        "GUID:2d400bc5bce43d44b85c182415c1b981",
+        "GUID:d33469998e75f3547836abcc7790cad0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

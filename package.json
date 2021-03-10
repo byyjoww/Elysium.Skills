@@ -2,8 +2,7 @@
   "author": "Elysium Entertainment",
   "displayName": "Elysium.Skills",
   "dependencies": {
-    "com.elysium.core": "1.0.0",
-    "com.unity.textmeshpro": "2.1.4"
+    "com.elysium.core": "1.0.0"
   },
   "hideInEditor": false,
   "name": "com.elysium.skills",
