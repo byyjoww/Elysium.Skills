@@ -1,0 +1,19 @@
+{
+  "author": "Elysium Entertainment",
+  "displayName": "Elysium.Skills",
+  "dependencies": {
+    "com.elysium.core": "1.0.0",
+    "com.unity.textmeshpro": "2.1.4"
+  },
+  "hideInEditor": false,
+  "name": "com.elysium.skills",
+  "unity": "2019.4",
+  "version": "1.0.0",
+  "samples": [
+    {
+      "displayName": "Demo",
+      "description": "Small demo scripts showing how to use the package.",
+      "path": "Samples/Demo"
+    }
+  ]
+}
