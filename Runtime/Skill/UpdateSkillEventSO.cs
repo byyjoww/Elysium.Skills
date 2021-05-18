@@ -7,7 +7,7 @@ namespace Elysium.Skills
 {
 #endif
 
-    [CreateAssetMenu(fileName = "SkillEventSO_", menuName = "Scriptable Objects/Event/Skill Event")]
+    [CreateAssetMenu(fileName = "SkillEventSO_", menuName = "Scriptable Objects/Scriptable Events/Skill Event")]
     public class UpdateSkillEventSO : GenericEventSO<SkillContainerLevelWrapper, int>
     {
 
