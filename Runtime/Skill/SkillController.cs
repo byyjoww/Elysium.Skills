@@ -327,7 +327,7 @@ namespace Elysium.Skills
         private void StartSkill() // ---> TRANSITION TO EXECUTING
         {
             // CHECK FOR ENOUGH RESOURCES
-            if (RunningSkill.Skill.Cost > 0 && !SkillResource.TryLoseResource(RunningSkill.Skill.Cost))
+            if (RunningSkill.Skill.Cost > 0 && !SkillResource.TryLose(RunningSkill.Skill.Cost))
             {
                 Debug.Log("not enough mana");
                 ClearRunningSkill();
